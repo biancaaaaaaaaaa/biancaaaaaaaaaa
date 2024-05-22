@@ -4,6 +4,9 @@ meu nome é bianca
 ⊱ estou estudando na alura ﹔
 ⊱ estou me desenvolvendo na linguagem javascript ﹔
 ⊱ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos ﹔
+
+contato: ✮
+0000109954192xsp@al.educacao.sp.gov.br
 <!--
 **biancaaaaaaaaaa/biancaaaaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
