@@ -1,5 +1,4 @@
 bem-vindo! ✮
-
 meu nome é bianca
 
 ⊱ estou estudando na alura ﹔
