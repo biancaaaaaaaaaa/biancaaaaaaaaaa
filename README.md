@@ -1,10 +1,8 @@
-bem-vindo! ✮
+bem-vindo! ✮                                         
 meu nome é bianca
 
-⊱ estou estudando na alura ﹔
-
-⊱ estou me desenvolvendo na linguagem javascript ﹔
-
+⊱ estou estudando na alura ﹔                  
+⊱ estou me desenvolvendo na linguagem javascript ﹔               
 ⊱ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos ﹔
 
 contato: ✮
