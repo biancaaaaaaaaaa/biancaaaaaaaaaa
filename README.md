@@ -4,8 +4,6 @@ meu nome é bianca
 ⊱ estou estudando na alura ﹔
 ⊱ estou me desenvolvendo na linguagem javascript ﹔
 ⊱ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos ﹔
-![]![quFyM159WK](https://github.com/biancaaaaaaaaaa/biancaaaaaaaaaa/assets/169255115/7991a4c5-f5e7-4c55-bc3a-a329f02ae147)
-
 <!--
 **biancaaaaaaaaaa/biancaaaaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
